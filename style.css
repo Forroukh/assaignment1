@@ -1,6 +1,6 @@
 body{
     font-family: 'Oswald', sans-serif;
-    background-color: #f7eee5
+    background-color: hsl(20, 27%, 96%)
     
     
 }
@@ -9,6 +9,11 @@ h1{
    
     margin-bottom: 0%;
     font-weight: 900;
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+
 }
 .name-highlight {
     color: tomato;
@@ -31,6 +36,7 @@ h1{
     text-decoration: none;
     padding: 8px 16px;
     font-weight: bolder;
+    border-radius: 20%;
 }
 
 .size-increase{
@@ -38,4 +44,65 @@ h1{
 }
 .about{
     color: tomato;
+text-align: left;}
+    
+section{
+    height: 500px;
+}
+
+.latest{
+    text-align: center;
+    color: tomato;
+    font-size: 40px;
+}
+.last-section{
+    background-color: rgb(240, 246, 247);
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.project1{
+    float: left;
+    margin-right: 10px;
+   box-shadow: 10px 10px 40px rgb(207, 202, 202) ;
+   padding: 10px 15px;
+   border-radius: 15px;
+
+    
+}
+.project2{
+    float: left;
+    margin-right: 10px;
+    box-shadow: 10px 10px 40px rgb(207, 202, 202) ;
+    padding: 10px 15px;
+    border-radius: 15px;
+    
+}
+.project3{
+    float: left;
+    margin-right: 10px;
+    box-shadow: 10px 10px 40px rgb(207, 202, 202) ;
+    padding: 10px 15px;
+    border-radius: 15px;
+    
+}
+
+.image9{
+    margin-left: 25%;
+}
+.image9-section{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    border-bottom: 0px;
+
+}
+
+.stay-connected{
+    font-size: 20px;
+    color: rgb(129, 125, 125);
+}
+
+.icons{
+    margin-left: 44%; 
+    margin-top: 0%;
+    
 }
