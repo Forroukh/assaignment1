@@ -1,0 +1,41 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    background-color: #f7eee5
+    
+    
+}
+h1{
+    font-size: 40px;
+   
+    margin-bottom: 0%;
+    font-weight: 900;
+}
+.name-highlight {
+    color: tomato;
+    font-size: 40px;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding:2%;
+}
+.half-width img{
+    width: 100%;
+    border-radius: 15%;
+}
+.link-button{
+    color: black;
+    background-color: tomato;
+    text-decoration: none;
+    padding: 8px 16px;
+    font-weight: bolder;
+}
+
+.size-increase{
+    font-size: 20px;
+}
+.about{
+    color: tomato;
+}
