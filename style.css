@@ -15,6 +15,7 @@ h2{
     text-align: center;
 
 }
+
 .name-highlight {
     color: tomato;
     font-size: 40px;
@@ -101,8 +102,32 @@ section{
     color: rgb(129, 125, 125);
 }
 
+
+}
+
+.quotes{
+    background-color: blue;
+
+}
+
+.webquotes{
+    box-shadow: 10px 10px 40px rgb(173, 173, 192);
+
+    background-color: rgb(247, 240, 240);
+    font-size: 18px;
+    color: rgb(14, 12, 12);
+    font-weight: lighter;
+    
+    
+   
+}
+
 .icons{
     margin-left: 44%; 
-    margin-top: 0%;
+    margin-top: 0%;}
+    #QUOTES{
+        color: tomato;
+        font-weight: 900;
+        
+    }
     
-}
